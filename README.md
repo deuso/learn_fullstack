@@ -10,3 +10,6 @@ I intended to exploit the following frameworks:
 * [Express - node.js web application framework](http://expressjs.com/)
 * [AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)
 * [node.js](http://www.nodejs.org/)
+
+##Step 1
+A functional personal blog
